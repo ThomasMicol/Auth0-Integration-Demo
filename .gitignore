@@ -338,3 +338,6 @@ ASALocalRun/
 
 # BeatPulse healthcheck temp database
 healthchecksdb
+/Auth0 Integration Demo/ClientApp/src/components/Layout.js
+*.map
+*.js
